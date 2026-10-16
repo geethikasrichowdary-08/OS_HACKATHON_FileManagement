@@ -1,0 +1,14 @@
+# Build outputs
+build/
+bin/
+*.o
+
+# Python presentation tooling
+.venv/
+__pycache__/
+*.pyc
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
